@@ -1,5 +1,5 @@
-from colletor.contract.ERC20Contract import ERC20Contract
-from colletor.contract.SwapContract import SwapContract
+from contract.ERC20Contract import ERC20Contract
+from contract.SwapContract import SwapContract
 from os import environ
 from web3 import Web3
 
