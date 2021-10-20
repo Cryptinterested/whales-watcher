@@ -23,6 +23,10 @@ pip3 install web3
 
 Usage
 --------
+execute:
+```
+chmod +x run-collector.sh
+```
  - Collector : Execute `./run-collector.sh`
  - Interpreter : Execute `./run-interpreter.sh`
 
