@@ -16,6 +16,10 @@ Requirements
 ```
 INFURA_PROJECT_ID=<Your-Infura-Project-ID>
 ```
+- Install web3:
+```
+pip3 install web3
+```
 
 Usage
 --------
