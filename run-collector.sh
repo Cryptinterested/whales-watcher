@@ -1,2 +1,2 @@
 source .env
-python3 ./collector/collector.py
+python3 ./colletor/collector.py
